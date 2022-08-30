@@ -6,3 +6,4 @@ SQream 관련 테스트
 > * [002](https://github.com/hyunVSpaul/sqream/blob/main/002.md "TEXT 타입의 날짜 형태를 DATETIME 타입으로 변환") | TEXT 타입의 날짜 형태를 DATETIME 타입으로 변환
 > * [003](https://github.com/hyunVSpaul/sqream/blob/main/003.md "SQream Database Upgrade (v2021.2.1.24 to v2022.1.2)") | SQream Database Upgrade (v2021.2.1.24 to v2022.1.2)
 > * [004](https://github.com/hyunVSpaul/sqream/blob/main/004.md "New Features (v2022.1.2) / ROLE의 보안정책") | New Features (v2022.1.2) / ROLE의 보안정책
+> * [005](https://github.com/hyunVSpaul/sqream/blob/main/005.md "New Features (v2022.1.2) / ROLE의 로그인 실패 횟수 제한 설정") | New Features (v2022.1.2) / ROLE의 로그인 실패 횟수 제한 설정
